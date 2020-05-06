@@ -1,4 +1,4 @@
-variable "ibmcloud_api_key" {}
+# variable "ibmcloud_api_key" {}
 
 variable "ibmcloud_region" {
     description = "Preferred IBM Cloud region to use for your infrastructure"
